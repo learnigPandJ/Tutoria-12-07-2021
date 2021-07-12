@@ -17,7 +17,7 @@ realice las siguientes operaciones:
 */
 import java.util.Scanner;
 
-import javax.swing.filechooser.FileNameExtensionFilter;
+
 public class Ejercicio1{
 
     public static void main(String [] args){
